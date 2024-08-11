@@ -1,6 +1,6 @@
 # ADOBE_Curvetopia
 
-This repository contains a Jupyter notebook named ADOBE.ipynb. This notebook is designed for [briefly describe the purpose of the notebook, e.g., data analysis, machine learning, etc.].
+This repository contains a Jupyter notebook named `ADOBE.ipynb`. This notebook is designed for [briefly describe the purpose of the notebook, e.g., data analysis, machine learning, etc.].
 
 
 ## Overview
@@ -15,35 +15,35 @@ To run this notebook, you'll need to have the following installed:
 - Jupyter Notebook or Jupyter Lab
 - [List any additional Python packages required, e.g., NumPy, pandas, matplotlib, etc.]
 
-You can install the required packages using pip:
+You can install the required packages using `pip`:
 
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Installation
 
-1. *Clone the repository*:
-    bash
+1. **Clone the repository**:
+    ```bash
     git clone https://github.com/your-username/your-repository-name.git
     cd your-repository-name
-    
+    ```
 
-2. *Set up a virtual environment* (optional but recommended):
-    bash
+2. **Set up a virtual environment** (optional but recommended):
+    ```bash
     python -m venv venv
     source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-    
+    ```
 
-3. *Install the dependencies*:
-    bash
+3. **Install the dependencies**:
+    ```bash
     pip install -r requirements.txt
-    
+    ```
 
-4. *Start Jupyter Notebook*:
-    bash
+4. **Start Jupyter Notebook**:
+    ```bash
     jupyter notebook ADOBE.ipynb
-    
+    ```
 
 ## Contributing
 
@@ -51,24 +51,25 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
-    bash
+    ```bash
     git checkout -b feature-name
-    
+    ```
 3. Make your changes.
 4. Commit your changes with a descriptive message.
-    bash
+    ```bash
     git commit -m "Any Changes"
-    
+    ```
 5. Push your changes to your forked repository.
-    bash
+    ```bash
     git push origin feature-name
-    
-6. Submit a pull request to the main repository's main branch.
+    ```
+6. Submit a pull request to the main repository's `main` branch.
 
 ## TestCases
 You can check the testcases described below
 [testcases](https://drive.google.com/drive/folders/1gxykKWlBKjP66-I5kkKql4OqcpcqhTEH?usp=sharing)
 
 ## If you have any doubts contact:
-bash
+```bash
     srmcorporationservices@gmail.com
+```
