@@ -5,7 +5,7 @@ This repository contains a Jupyter notebook named `ADOBE.ipynb`. This notebook i
 
 ## Overview
 
-[Curvetopia is a project focused on identifying, regularizing, and beautifying 2D curves in Euclidean space. It processes line art images, converting them into a set of curves represented as cubic curves, and addresses challenges related to symmetry, curve completion, and more.]
+Curvetopia is a project focused on identifying, regularizing, and beautifying 2D curves in Euclidean space. It processes line art images, converting them into a set of curves represented as cubic curves, and addresses challenges related to symmetry, curve completion, and more.
 
 ## Requirements
 
