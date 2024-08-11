@@ -11,9 +11,10 @@ Curvetopia is a project focused on identifying, regularizing, and beautifying 2D
 
 To run this notebook, you'll need to have the following installed:
 
-- Python 3.x
+- Python 3.10
+- Flask
 - Jupyter Notebook or Jupyter Lab
-- [List any additional Python packages required, e.g., NumPy, pandas, matplotlib, etc.]
+- List any additional Python packages required, e.g., NumPy, pandas, matplotlib, etc.
 
 You can install the required packages using `pip`:
 
